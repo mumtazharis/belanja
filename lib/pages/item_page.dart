@@ -9,7 +9,7 @@ class ItemPage extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text(itemArgs.name),
+        title: Text('Detail'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
