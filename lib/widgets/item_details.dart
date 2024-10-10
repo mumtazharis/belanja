@@ -42,9 +42,9 @@ class ItemDetails extends StatelessWidget {
           ],
         ),
         const SizedBox(height: 20),
-        Text(
+        const Text(
           'This is a high-quality product that is affordable and essential for daily needs. You can use this item in various ways to improve your day-to-day life.',
-          style: const TextStyle(fontSize: 16),
+          style: TextStyle(fontSize: 16),
         ),
       ],
     );

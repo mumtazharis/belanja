@@ -8,5 +8,6 @@
 Pada praktikum ini, hanya membuat halaman utama yang menampilkkan item dan harganya, tetapi masih belum bisa di klik untuk menampilkan detail item.
 
 ### Tugas Praktikum
-<video controls src="images/20241010-1636-19.3892424.mp4" title="Title"></video>
+![alt text](images/tugaspraktikum.png)
+![alt text](images/tugaspraktikuma.png)
 Pada tugas praktikum, membuat halaman utama seperti marketplace dengan menerapkan gridview pada tampilan dan menambahkan navigator agar bisa berpindah halaman dari halaman utama ke halaman detail item.
